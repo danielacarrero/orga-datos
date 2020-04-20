@@ -7,6 +7,6 @@ Nombre y apellido               | Padron    | Mail
 ------------------------------- | --------  | ------------------------------
 Carrero Riveros, Maria Daniela  | 99316     | dcarrero@fi.uba.ar
 Ferrari Coronel, Mateo          | 102375    | mferraric@fi.uba.ar
-Paredes Tavara, Rogger Aldair   | 97976     | 
+Paredes Tavara, Rogger Aldair   | 97976     | rparedest@fi.uba.ar
 Torres Baivads, Jesus Enrique   | 102909    | 
 
