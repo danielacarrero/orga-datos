@@ -3,7 +3,7 @@ Primer cuatrimestre 2020
 
 ## Integrantes: ##
 
-Nombre y apellido               | Padron    | Mail
+Nombre y Apellido               | Padron    | Mail
 ------------------------------- | --------  | ------------------------------
 Carrero Riveros, Maria Daniela  | 99316     | dcarrero@fi.uba.ar
 Ferrari Coronel, Mateo          | 102375    | mferraric@fi.uba.ar
